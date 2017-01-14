@@ -8,3 +8,4 @@ Switched to branch 'master'
 $ git checkout -b dev
 Switched to a new branch 'dev'
 Git is a free software ...
+master will push
