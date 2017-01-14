@@ -1,4 +1,5 @@
 README.md
 创建dev分支
 change branch
-Creating a new branch is quick & simple.
+删除了dev branch 
+Creating a new branch is quick AND simple.
