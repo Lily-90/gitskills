@@ -3,3 +3,5 @@ README.md
 change branch
 删除了dev branch 
 Creating a new branch is quick AND simple.
+$ git checkout master
+Switched to branch 'master'
