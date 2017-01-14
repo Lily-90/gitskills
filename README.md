@@ -5,3 +5,5 @@ change branch
 Creating a new branch is quick AND simple.
 $ git checkout master
 Switched to branch 'master'
+$ git checkout -b dev
+Switched to a new branch 'dev'
